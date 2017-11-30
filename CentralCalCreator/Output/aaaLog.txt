@@ -1,0 +1,335 @@
+Begin importing files in the Input folder.
+Found raw Rediker data.
+Begin importing Rediker data.
+Added "END INPUT" line to raw Rediker data.
+Unexpected space in class name on line 8. Trying Hebrew I instead.
+Unexpected space in class name on line 9. Trying Hebrew I instead.
+Unexpected space in class name on line 10. Trying Hebrew II instead.
+Unexpected space in class name on line 11. Trying Hebrew II instead.
+Unexpected space in class name on line 23. Trying Hebrew I instead.
+Unexpected space in class name on line 24. Trying Hebrew I instead.
+Unexpected space in class name on line 25. Trying Hebrew II instead.
+Error: Could not read room info on line 55. Expect errors in classroom and teacher fields.
+Unexpected space in class name on line 56. Trying LitProp II instead.
+Unexpected space in class name on line 68. Trying AP STAT instead.
+Error: Could not read room info on line 94. Expect errors in classroom and teacher fields.
+Unexpected space in class name on line 104. Trying LitProp I instead.
+Unexpected space in class name on line 105. Trying LitProp I instead.
+Unexpected space in class name on line 106. Trying LitProp I instead.
+Unexpected space in class name on line 107. Trying LitProp I instead.
+Unexpected space in class name on line 157. Trying BiblAnal I instead.
+Unexpected space in class name on line 158. Trying BiblAnal I instead.
+Unexpected space in class name on line 170. Trying APEng Lit instead.
+Unexpected space in class name on line 185. Trying US History instead.
+Unexpected space in class name on line 210. Trying Spanish I instead.
+Unexpected space in class name on line 211. Trying Spanish I instead.
+Unexpected space in class name on line 212. Trying Spanish II instead.
+Unexpected space in class name on line 213. Trying Spanish II instead.
+Unexpected space in class name on line 222. Trying JHistory I instead.
+Unexpected space in class name on line 223. Trying JHistory I instead.
+Unexpected space in class name on line 242. Trying 3D Design instead.
+Unexpected space in class name on line 251. Trying US History instead.
+Unexpected space in class name on line 288. Trying BiblAnal I instead.
+Unexpected space in class name on line 289. Trying BiblAnal I instead.
+Unexpected space in class name on line 291. Trying LitProp II instead.
+Error: Could not read room info on line 291. Expect errors in classroom and teacher fields.
+Unexpected space in class name on line 292. Trying LitProp II instead.
+Unexpected space in class name on line 299. Trying Algebra I instead.
+Unexpected space in class name on line 325. Trying JHistory I instead.
+Unexpected space in class name on line 326. Trying JHistory I instead.
+Unexpected space in class name on line 343. Trying BiblAnal I instead.
+Unexpected space in class name on line 372. Trying Algebra I instead.
+Unexpected space in class name on line 373. Trying Algebra I instead.
+Unexpected space in class name on line 374. Trying Algebra I instead.
+Error: Could not read room info on line 383. Expect errors in classroom and teacher fields.
+Unexpected space in class name on line 445. Trying Art Apprec instead.
+Unexpected space in class name on line 446. Trying Art Apprec instead.
+Unexpected space in class name on line 447. Trying Art Apprec instead.
+Unexpected space in class name on line 448. Trying Art Apprec instead.
+Unexpected space in class name on line 449. Trying Art Inst instead.
+Unexpected space in class name on line 450. Trying Art Inst instead.
+Unexpected space in class name on line 451. Trying Art Inst instead.
+Unexpected space in class name on line 452. Trying Art Found instead.
+Unexpected space in class name on line 453. Trying Art Found instead.
+Unexpected space in class name on line 454. Trying Art Found instead.
+Unexpected space in class name on line 455. Trying Art Found instead.
+Unexpected space in class name on line 457. Trying Studio Art instead.
+Unexpected space in class name on line 458. Trying Studio Art instead.
+Unexpected space in class name on line 547. Trying Rsch Methd instead.
+Encountered 54 parsing errors while importing Rediker data. See logfile for details.
+Note: Didn't find a file named 'customTimetables.csv' to import from.
+Note: Didn't find a file named 'customCalendar.csv' to import from.
+All input parsed.
+Begin loading timetables.
+Loaded timetable AMAssembly.
+Timetable Custom1 contains nonstandard period Assembly.
+Loaded timetable Custom1.
+Loaded timetable FastDay.
+Loaded timetable Friday.
+Timetable PMAssembly contains nonstandard period Assembly.
+Loaded timetable PMAssembly.
+Loaded timetable Regular.
+Loaded timetable T440.
+Finished loading timetables.
+Begin validating calendar.
+Classes on 09/19/17 will be based on the Custom1 timetable.
+Classes on 09/27/17 will be based on the PMAssembly timetable.
+Classes on 10/02/17 will be based on the AMAssembly timetable.
+Classes on 10/17/17 will be based on the PMAssembly timetable.
+Classes on 10/19/17 will be based on the PMAssembly timetable.
+Classes on 10/24/17 will be based on the PMAssembly timetable.
+Classes on 10/31/17 will be based on the PMAssembly timetable.
+Classes on 11/07/17 will be based on the PMAssembly timetable.
+Classes on 11/14/17 will be based on the T440 timetable.
+Classes on 11/20/17 will be based on the T440 timetable.
+Classes on 11/22/17 will be based on the T440 timetable.
+Classes on 12/12/17 will be based on the T440 timetable.
+Classes on 12/13/17 will be based on the T440 timetable.
+Classes on 12/14/17 will be based on the T440 timetable.
+Classes on 12/19/17 will be based on the T440 timetable.
+Classes on 12/28/17 will be based on the FastDay timetable.
+Classes on 02/28/18 will be based on the FastDay timetable.
+Classes on 03/14/18 will be based on the T440 timetable.
+Classes on 04/19/18 will be based on the T440 timetable.
+Finished validating calendar.
+BashiryOfira's schedule loaded successfully.
+Calendar file created for BashiryOfira.
+BennunNaomi's schedule loaded successfully.
+Calendar file created for BennunNaomi.
+BidermanShulamith's class BioTutor (0327/01) has no listing for Teacher.
+BidermanShulamith's class ChemLab (0346/44) has no listing for Teacher.
+BidermanShulamith's schedule loaded successfully.
+Calendar file created for BidermanShulamith.
+BorensteinMiriam's class Chabura (0093/05) has no listed room number.
+BorensteinMiriam's class Chabura (0093/05) has no listing for Teacher.
+BorensteinMiriam's schedule loaded successfully.
+Calendar file created for BorensteinMiriam.
+BorensteinYitzchok's schedule loaded successfully.
+Calendar file created for BorensteinYitzchok.
+ChoppMiriam's schedule loaded successfully.
+Calendar file created for ChoppMiriam.
+CooperChani's schedule loaded successfully.
+Calendar file created for CooperChani.
+Davis-SavitskyMichal's class IsraelGuid (0975/01) has no listed room number.
+Davis-SavitskyMichal's class IsraelGuid (0975/01) has no listing for Teacher.
+Davis-SavitskyMichal's class IsraelGuid (0975/01) has an invalid timecode.
+Davis-SavitskyMichal's schedule loaded successfully.
+Calendar file created for Davis-SavitskyMichal.
+FrankelHadassah's schedule loaded successfully.
+Calendar file created for FrankelHadassah.
+FriedRuth's schedule loaded successfully.
+Calendar file created for FriedRuth.
+FruchterLaura's class LearnCtr (0319/01) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/01) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/02) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/02) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/03) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/03) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/04) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/04) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/05) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/05) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/06) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/06) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/07) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/07) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/08) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/08) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/09) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/09) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/10) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/10) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/11) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/11) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/12) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/12) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/13) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/13) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/14) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/14) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/15) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/15) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/46) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/46) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/52) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/52) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/53) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/53) has an invalid timecode.
+FruchterLaura's class LearnCtr (0319/54) has no listing for Teacher.
+FruchterLaura's class LearnCtr (0319/54) has an invalid timecode.
+FruchterLaura's schedule loaded successfully.
+Calendar file created for FruchterLaura.
+GewirtzAliza's schedule loaded successfully.
+Calendar file created for GewirtzAliza.
+GollerRabbi Joshua's schedule loaded successfully.
+Calendar file created for GollerRabbi Joshua.
+GrovemanRandee's schedule loaded successfully.
+Calendar file created for GrovemanRandee.
+GrovemanRandeeCustom's schedule loaded successfully.
+Calendar file created for GrovemanRandeeCustom.
+HechtAudi's schedule loaded successfully.
+Calendar file created for HechtAudi.
+HirtDaniella's schedule loaded successfully.
+Calendar file created for HirtDaniella.
+HorstmanDavid's schedule loaded successfully.
+Calendar file created for HorstmanDavid.
+HorstmanDavidCustom's class Lisa has no listed room number.
+HorstmanDavidCustom's class Lisa has no listing for Teacher.
+HorstmanDavidCustom's class Robert has no listed room number.
+HorstmanDavidCustom's class Robert has no listing for Teacher.
+HorstmanDavidCustom's schedule loaded successfully.
+Calendar file created for HorstmanDavidCustom.
+HorstmanDavidTest's schedule loaded successfully.
+Calendar file created for HorstmanDavidTest.
+HuguenoFelipe's schedule loaded successfully.
+Calendar file created for HuguenoFelipe.
+IsaacsRichard's schedule loaded successfully.
+Calendar file created for IsaacsRichard.
+KarollMarci's class Biology-OL (0322/01) has no listing for Teacher.
+KarollMarci's schedule loaded successfully.
+Calendar file created for KarollMarci.
+KatzAmy's schedule loaded successfully.
+Calendar file created for KatzAmy.
+KoenigsbergRiki's schedule loaded successfully.
+Calendar file created for KoenigsbergRiki.
+KolatchDiane's schedule loaded successfully.
+Calendar file created for KolatchDiane.
+KonigAliza's schedule loaded successfully.
+Calendar file created for KonigAliza.
+KonigsbergRebecca's class LitProp II (0046/73) has no listed room number.
+KonigsbergRebecca's class LitProp II (0046/73) has no listing for Teacher.
+KonigsbergRebecca's schedule loaded successfully.
+Calendar file created for KonigsbergRebecca.
+KonzackKim's schedule loaded successfully.
+Calendar file created for KonzackKim.
+KookElana's schedule loaded successfully.
+Calendar file created for KookElana.
+LavnerKaren's class BibAnalIII (0062/85) has no listing for Teacher.
+LavnerKaren's schedule loaded successfully.
+Calendar file created for LavnerKaren.
+LernerAbby's schedule loaded successfully.
+Calendar file created for LernerAbby.
+LewZvi's schedule loaded successfully.
+Calendar file created for LewZvi.
+MalitzkyShani's schedule loaded successfully.
+Calendar file created for MalitzkyShani.
+MoskovichLeah's schedule loaded successfully.
+Calendar file created for MoskovichLeah.
+NagarGili's schedule loaded successfully.
+Calendar file created for NagarGili.
+NeugroschlCB's class HISTORYSEM (0473/42) has no listed room number.
+NeugroschlCB's class HISTORYSEM (0473/42) has no listing for Teacher.
+NeugroschlCB's schedule loaded successfully.
+Calendar file created for NeugroschlCB.
+PortSimone's class Health (0788/71) has no listing for Teacher.
+PortSimone's class Health (0788/72) has no listing for Teacher.
+PortSimone's class Health (0788/73) has no listing for Teacher.
+PortSimone's class Health (0788/74) has no listing for Teacher.
+PortSimone's schedule loaded successfully.
+Calendar file created for PortSimone.
+RothsteinLisa's schedule loaded successfully.
+Calendar file created for RothsteinLisa.
+RutnerBracha's schedule loaded successfully.
+Calendar file created for RutnerBracha.
+SandmanEleorah's schedule loaded successfully.
+Calendar file created for SandmanEleorah.
+SegalBeverly's schedule loaded successfully.
+Calendar file created for SegalBeverly.
+ShauliKarine's schedule loaded successfully.
+Calendar file created for ShauliKarine.
+ShomerBatsheva's schedule loaded successfully.
+Calendar file created for ShomerBatsheva.
+ShorEstee's schedule loaded successfully.
+Calendar file created for ShorEstee.
+SmithLynda's schedule loaded successfully.
+Calendar file created for SmithLynda.
+StrulowitzRabbi Joshua's schedule loaded successfully.
+Calendar file created for StrulowitzRabbi Joshua.
+WeinbergerKeren's schedule loaded successfully.
+Calendar file created for WeinbergerKeren.
+WeissmanRabbi Elie's schedule loaded successfully.
+Calendar file created for WeissmanRabbi Elie.
+WilliamsJason's class Rsch Methd (0398/45) has no listing for Teacher.
+WilliamsJason's class Rsch Methd (0398/45) has an invalid timecode.
+WilliamsJason's schedule loaded successfully.
+Calendar file created for WilliamsJason.
+WinstonRobert's class Biology (0324/45) has no listing for Teacher.
+WinstonRobert's schedule loaded successfully.
+Calendar file created for WinstonRobert.
+WolfRena's schedule loaded successfully.
+Calendar file created for WolfRena.
+WynerDanielle's schedule loaded successfully.
+Calendar file created for WynerDanielle.
+YorkBetty's schedule loaded successfully.
+Calendar file created for YorkBetty.
+ZivOria's class LearnCtr (0319/16) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/16) has an invalid timecode.
+ZivOria's class LearnCtr (0319/17) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/17) has an invalid timecode.
+ZivOria's class LearnCtr (0319/18) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/18) has an invalid timecode.
+ZivOria's class LearnCtr (0319/19) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/19) has an invalid timecode.
+ZivOria's class LearnCtr (0319/20) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/20) has an invalid timecode.
+ZivOria's class LearnCtr (0319/21) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/21) has an invalid timecode.
+ZivOria's class LearnCtr (0319/22) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/22) has an invalid timecode.
+ZivOria's class LearnCtr (0319/23) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/23) has an invalid timecode.
+ZivOria's class LearnCtr (0319/24) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/24) has an invalid timecode.
+ZivOria's class LearnCtr (0319/25) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/25) has an invalid timecode.
+ZivOria's class LearnCtr (0319/27) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/27) has an invalid timecode.
+ZivOria's class LearnCtr (0319/28) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/28) has an invalid timecode.
+ZivOria's class LearnCtr (0319/29) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/29) has an invalid timecode.
+ZivOria's class LearnCtr (0319/30) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/30) has an invalid timecode.
+ZivOria's class LearnCtr (0319/31) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/31) has an invalid timecode.
+ZivOria's class LearnCtr (0319/32) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/32) has an invalid timecode.
+ZivOria's class LearnCtr (0319/33) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/33) has an invalid timecode.
+ZivOria's class LearnCtr (0319/34) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/34) has an invalid timecode.
+ZivOria's class LearnCtr (0319/35) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/35) has an invalid timecode.
+ZivOria's class LearnCtr (0319/36) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/36) has an invalid timecode.
+ZivOria's class LearnCtr (0319/37) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/37) has an invalid timecode.
+ZivOria's class LearnCtr (0319/38) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/38) has an invalid timecode.
+ZivOria's class LearnCtr (0319/39) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/39) has an invalid timecode.
+ZivOria's class LearnCtr (0319/40) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/40) has an invalid timecode.
+ZivOria's class LearnCtr (0319/41) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/41) has an invalid timecode.
+ZivOria's class LearnCtr (0319/42) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/42) has an invalid timecode.
+ZivOria's class LearnCtr (0319/43) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/43) has an invalid timecode.
+ZivOria's class LearnCtr (0319/44) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/44) has an invalid timecode.
+ZivOria's class LearnCtr (0319/45) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/45) has an invalid timecode.
+ZivOria's class LearnCtr (0319/47) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/47) has an invalid timecode.
+ZivOria's class LearnCtr (0319/48) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/48) has an invalid timecode.
+ZivOria's class LearnCtr (0319/49) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/49) has an invalid timecode.
+ZivOria's class LearnCtr (0319/50) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/50) has an invalid timecode.
+ZivOria's class LearnCtr (0319/51) has no listing for Teacher.
+ZivOria's class LearnCtr (0319/51) has an invalid timecode.
+ZivOria's schedule loaded successfully.
+Calendar file created for ZivOria.
+Finished making calendars.
